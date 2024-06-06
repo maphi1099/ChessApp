@@ -1,0 +1,1 @@
+LichessToken = lip_tCW06L7lwcukLdgmzDuK
